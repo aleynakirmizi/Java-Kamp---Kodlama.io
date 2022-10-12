@@ -5,3 +5,4 @@
 
 - 05.10.2022 - 3.Kamp canlı ders kodları (OOP - Class & Interface ile Sürdürülebilirlik) : https://github.com/aleynakirmizi/Java-Kamp---Kodlama.io/tree/main/oopWithNLayeredApp
 - 05.10.2022 - 3.Kamp Ödev 1 : https://github.com/aleynakirmizi/Java-Kamp---Kodlama.io/tree/main/kamp3_odev_1
+- 05.10.2022 - 3. Kamp Ödev 3 : https://github.com/aleynakirmizi/Java-Kamp---Kodlama.io/tree/main/odev_kodlamaio_mimari
